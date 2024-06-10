@@ -1,5 +1,10 @@
-## Hola soy la Maria 👋
-
+## Olá, meu nome é Maria Clara 👋
+## Estou estudando na Alura Start 
+## Estou me desenvolvendo na linguagem JavaScript
+## Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+## Você pode entrar em contato comigo 📫
+## 00001127175683sp@al.educacao.sp.gov.br
+## caso de emergência ligue para o SAMU 192 ☑️
 <!--
 **Mcss2006/Mcss2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
